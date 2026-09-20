@@ -1,0 +1,8 @@
+test_budget_elitism_and_reproducibility (test_model.TestGriewank.test_budget_elitism_and_reproducibility) ... ok
+test_known_minimum_and_nonnegative (test_model.TestGriewank.test_known_minimum_and_nonnegative) ... ok
+test_reflection_many_widths (test_model.TestGriewank.test_reflection_many_widths) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.018s
+
+OK

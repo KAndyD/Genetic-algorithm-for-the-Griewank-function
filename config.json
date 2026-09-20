@@ -1,0 +1,15 @@
+{
+  "population": 96,
+  "generations": 167,
+  "runs": 20,
+  "seed": 261400,
+  "dimension": 10,
+  "lower": -600,
+  "upper": 600,
+  "crossover_probability": 0.9,
+  "mutation_probability": 0.1,
+  "scales": [
+    0.01,
+    0.05
+  ]
+}
